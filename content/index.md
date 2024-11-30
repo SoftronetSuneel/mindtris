@@ -1,3 +1,6 @@
+---
+Title
+---
 # Nuxt Co vfff
 
 ---
